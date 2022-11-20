@@ -1,0 +1,279 @@
+1-1  | Pilot
+1-2  | The Big Bran Hypothesis
+1-3  | The Fuzzy Boots Corollary
+1-4  | The Luminous Fish Effect
+1-5  | The Hamburger Postulate
+1-6  | The Middle-Earth Paradigm
+1-7  | The Dumpling Paradox
+1-8  | The Grasshopper Experiment
+1-9  | The Cooper-Hofstadter Polarization
+1-10 | The Loobenfeld Decay
+1-11 | The Pancake Batter Anomaly
+1-12 | The Jerusalem Duality
+1-13 | The Bat Jar Conjecture
+1-14 | The Nerdvana Annihilation
+1-15 | The Pork Chop Indeterminacy
+1-16 | The Peanut Reaction
+1-17 | The Tangerine Factor
+2-1  | The Bad Fish Paradigm
+2-2  | The Codpiece Topology
+2-3  | The Barbarian Sublimation
+2-4  | The Griffin Equivalency
+2-5  | The Euclid Alternative
+2-6  | The Cooper-Nowitzki Theorem
+2-7  | The Panty PiÃ±ata Polarization
+2-8  | The Lizard-Spock Expansion
+2-9  | The White Asparagus Triangulation
+2-10 | The Vartabedian Conundrum
+2-11 | The Bath Item Gift Hypothesis
+2-12 | The Killer Robot Instability
+2-13 | The Friendship Algorithm
+2-14 | The Financial Permeability
+2-15 | The Maternal Capacitance
+2-16 | The Cushion Saturation
+2-17 | The Terminator Decoupling
+2-18 | The Work Song Nanocluster
+2-19 | The Dead Hooker Juxtaposition
+2-20 | The Hofstadter Isotope
+2-21 | The Vegas Renormalization
+2-22 | The Classified Materials Turbulence
+2-23 | The Monopolar Expedition
+3-1  | The Electric Can Opener Fluctuation
+3-2  | The Jiminy Conjecture
+3-3  | The Gothowitz Deviation
+3-4  | The Pirate Solution
+3-5  | The Creepy Candy Coating Corollary
+3-6  | The Cornhusker Vortex
+3-7  | The Guitarist Amplification
+3-8  | The Adhesive Duck Deficiency
+3-9  | The Vengeance Formulation
+3-10 | The Gorilla Experiment
+3-11 | The Maternal Congruence
+3-12 | The Psychic Vortex
+3-13 | The Bozeman Reaction
+3-14 | The Einstein Approximation
+3-15 | The Large Hadron Collision
+3-16 | The Excelsior Acquisition
+3-17 | The Precious Fragmentation
+3-18 | The Pants Alternative
+3-19 | The Wheaton Recurrence
+3-20 | The Spaghetti Catalyst
+3-21 | The Plimpton Stimulation
+3-22 | The Staircase Implementation
+3-23 | The Lunar Excitation
+4-1  | The Robotic Manipulation
+4-2  | The Cruciferous Vegetable Amplification
+4-3  | The Zazzy Substitution
+4-4  | The Hot Troll Deviation
+4-5  | The Desperation Emanation
+4-6  | The Irish Pub Formulation
+4-7  | The Apology Insufficiency
+4-8  | The 21-Second Excitation
+4-9  | The Boyfriend Complexity
+4-10 | The Alien Parasite Hypothesis
+4-11 | The Justice League Recombination
+4-12 | The Bus Pants Utilization
+4-13 | The Love Car Displacement
+4-14 | The Thespian Catalyst
+4-15 | The Benefactor Factor
+4-16 | The Cohabitation Formulation
+4-17 | The Toast Derivation
+4-18 | The Prestidigitation Approximation
+4-19 | The Zarnecki Incursion
+4-20 | The Herb Garden Germination
+4-21 | The Agreement Dissection
+4-22 | The Wildebeest Implementation
+4-23 | The Engagement Reaction
+4-24 | The Roommate Transmogrification
+5-1  | The Skank Reflex Analysis
+5-2  | The Infestation Hypothesis
+5-3  | The Pulled Groin Extrapolation
+5-4  | The Wiggly Finger Catalyst
+5-5  | The Russian Rocket Reaction
+5-6  | The Rhinitis Revelation
+5-7  | The Good Guy Fluctuation
+5-8  | The Isolation Permutation
+5-9  | The Ornithophobia Diffusion
+5-10 | The Flaming Spittoon Acquisition
+5-11 | The Speckerman Recurrence
+5-12 | The Shiny Trinket Maneuver
+5-13 | The Recombination Hypothesis
+5-14 | The Beta Test Initiation
+5-15 | The Friendship Contraction
+5-16 | The Vacation Solution
+5-17 | The Rothman Disintegration
+5-18 | The Werewolf Transformation
+5-19 | The Weekend Vortex
+5-20 | The Transporter Malfunction
+5-21 | The Hawking Excitation
+5-22 | The Stag Convergence
+5-23 | The Launch Acceleration
+5-24 | The Countdown Reflection
+6-1  | The Date Night Variable
+6-2  | The Decoupling Fluctuation
+6-3  | The Higgs Boson Observation
+6-4  | The Re-Entry Minimization
+6-5  | The Holographic Excitation
+6-6  | The Extract Obliteration
+6-7  | The Habitation Configuration
+6-8  | The 43 Peculiarity
+6-9  | The Parking Spot Escalation
+6-10 | The Fish Guts Displacement
+6-11 | The Santa Simulation
+6-12 | The Egg Salad Equivalency
+6-13 | The Bakersfield Expedition
+6-14 | The Cooper/Kripke Inversion
+6-15 | The Spoiler Alert Segmentation
+6-16 | The Tangible Affection Proof
+6-17 | The Monster Isolation
+6-18 | The Contractual Obligation Implementation
+6-19 | The Closet Reconfiguration
+6-20 | The Tenure Turbulence
+6-21 | The Closure Alternative
+6-22 | The Proton Resurgence
+6-23 | The Love Spell Potential
+6-24 | The Bon Voyage Reaction
+7-1  | The Hofstadter Insufficiency
+7-2  | The Deception Verification
+7-3  | The Scavenger Vortex
+7-4  | The Raiders Minimization
+7-5  | The Workplace Proximity
+7-6  | The Romance Resonance
+7-7  | The Proton Displacement
+7-8  | The Itchy Brain Simulation
+7-9  | The Thanksgiving Decoupling
+7-10 | The Discovery Dissipation
+7-11 | The Cooper Extraction
+7-12 | The Hesitation Ramification
+7-13 | The Occupation Recalibration
+7-14 | The Convention Conundrum
+7-15 | The Locomotive Manipulation
+7-16 | The Table Polarization
+7-17 | The Friendship Turbulence
+7-18 | The Mommy Observation
+7-19 | The Indecision Amalgamation
+7-20 | The Relationship Diremption
+7-21 | The Anything Can Happen Recurrence
+7-22 | The Proton Transmogrification
+7-23 | The Gorilla Dissolution
+7-24 | The Status Quo Combustion
+8-1  | The Locomotion Interruption
+8-2  | The Junior Professor Solution
+8-3  | The First Pitch Insufficiency
+8-4  | The Hook-Up Reverberation
+8-5  | The Focus Attentuation
+8-6  | The Expedition Approximation
+8-7  | The Misinterpretation Agitation
+8-8  | The Prom Equivalency
+8-9  | The Septum Deviation
+8-10 | The Champagne Reflection
+8-11 | The Clean Room Infiltration
+8-12 | The Space Probe Disintegration
+8-13 | The Anxiety Optimization
+8-14 | The Troll Manifestation
+8-15 | The Comic Book Store Regeneration
+8-16 | The Intimacy Acceleration
+8-17 | The Colonization Application
+8-18 | The Leftover Thermalization
+8-19 | The Skywalker Incursion
+8-20 | The Fortification Implementation
+8-21 | The Communication Deterioration
+8-22 | The Graduation Transmission
+8-23 | The Maternal Combustion
+8-24 | The Commitment Determination
+9-1  | The Matrimonial Momentum
+9-2  | The Separation Oscillation
+9-3  | The Bachelor Party Corrosion
+9-4  | The 2003 Approximation
+9-5  | The Perspiration Implementation
+9-6  | The Helium Insufficiency
+9-7  | The Spock Resonance
+9-8  | The Mystery Date Observation
+9-9  | The Platonic Permutation
+9-10 | The Earworm Reverberation
+9-11 | The Opening Night Excitation
+9-12 | The Sales Call Sublimation
+9-13 | The Empathy Optimization
+9-14 | The Meemaw Materialization
+9-15 | The Valentino Submergence
+9-16 | The Positive Negative Reaction
+9-17 | The Celebration Experimentation
+9-18 | The Application Deterioration
+9-19 | The Solder Excursion Diversion
+9-20 | The Big Bear Precipitation
+9-21 | The Viewing Party Combustion
+9-22 | The Fermentation Bifurcation
+9-23 | The Line Substitution Solution
+9-24 | The Convergence Convergence
+10-1 | The Conjugal Conjecture
+10-2 | The Military Miniaturization
+10-3 | The Dependence Transcendence
+10-4 | The Cohabitation Experimentation
+10-5 | The Hot Tub Contamination
+10-6 | The Fetal Kick Catalyst
+10-7 | The Veracity Elasticity
+10-8 | The Brain Bowl Incubation
+10-9 | The Geology Elevation
+10-10 | The Property Division Collision
+10-11 | The Birthday Synchronicity
+10-12 | The Holiday Summation
+10-13 | The Romance Recalibration
+10-14 | The Emotion Detection Automation
+10-15 | The Locomotion Reverberation
+10-16 | The Allowance Evaporation
+10-17 | The Comic-Con Conundrum
+10-18 | The Escape Hatch Identification
+10-19 | The Collaboration Fluctuation
+10-20 | The Recollection Dissipation
+10-21 | The Separation Agitation
+10-22 | The Cognition Regeneration
+10-23 | The Gyroscopic Collapse
+10-24 | The Long Distance Dissonance
+11-1 | The Proposal Proposal
+11-2 | The Retraction Reaction
+11-3 | The Relaxation Integration
+11-4 | The Explosion Implosion
+11-5 | The Collaboration Contamination
+11-6 | The Proton Regeneration
+11-7 | The Geology Methodology
+11-8 | The Tesla Recoil
+11-9 | The Bitcoin Entanglement
+11-10 | The Confidence Erosion
+11-11 | The Celebration Reverberation
+11-12 | The Matrimonial Metric
+11-13 | The Solo Oscillation
+11-14 | The Separation Triangulation
+11-15 | The Novelization Correlation
+11-16 | The Neonatal Nomenclature
+11-17 | The Athenaeum Allocation
+11-18 | The Gates Excitation
+11-19 | The Tenant Disassociation
+11-20 | The Reclusive Potential
+11-21 | The Comet Polarization
+11-22 | The Monetary Insufficiency
+11-23 | The Sibling Realignment
+11-24 | The Bow Tie Asymmetry
+12-1 | The Conjugal Configuration
+12-2 | The Wedding Gift Wormhole
+12-3 | The Procreation Calculation
+12-4 | The Tam Turbulence
+12-5 | The Planetarium Collision
+12-6 | The Imitation Perturbation
+12-7 | The Grant Allocation Derivation
+12-8 | The Consummation Deviation
+12-9 | The Citation Negation
+12-10 | The VCR Illumination
+12-11 | The Paintball Scattering
+12-12 | The Propagation Proposition
+12-13 | The Confirmation Polarization
+12-14 | The Meteorite Manifestation
+12-15 | The Donation Oscillation
+12-16 | The D & D Vortex
+12-17 | The Conference Valuation
+12-18 | The Laureate Accumulation
+12-19 | The Inspiration Deprivation
+12-20 | The Decision Reverberation
+12-21 | The Plagiarism Schism
+12-22 | The Maternal Conclusion
+12-23 | The Change Constant
+12-24 | The Stockholm Syndrome

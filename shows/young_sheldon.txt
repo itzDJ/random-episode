@@ -1,0 +1,105 @@
+1-1  | Pilot
+1-2  | Rockets, Communists, and the Dewey Decimal System
+1-3  | Poker, Faith, and Eggs
+1-4  | A Therapist, a Comic Book, and a Breakfast Sausage
+1-5  | A Solar Calculator, a Game Ball, and a Cheerleader's Bosom
+1-6  | A Patch, a Modem, and a ZantacÂ®
+1-7  | A Brisket, Voodoo, and Cannonball Run
+1-8  | Cape Canaveral, SchrÃ¶dinger's Cat, and Cyndi Lauper's Hair
+1-9  | Spock, Kirk, and Testicular Hernia
+1-10 | An Eagle Feather, a String Bean, and an Eskimo
+1-11 | Demons, Sunday School, and Prime Numbers
+1-12 | A Computer, a Plastic Pony, and a Case of Beer
+1-13 | A Sneeze, Detention and Sissy Spacek
+1-14 | Potato Salad, a Broomstick, and Dad's Whiskey
+1-15 | Dolomite, Apple Slices, and a Mystery Woman
+1-16 | Killer Asteroids, Oklahoma, and a Frizzy Hair Machine
+1-17 | Jiu-Jitsu, Bubble Wrap, and Yoo-hoo
+1-18 | A Mother, a Child and a Blue Man's Backside
+1-19 | Gluons, Guacamole, and the Color Purple
+1-20 | A Dog, a Squirrel, and a Fish Named Fish
+1-21 | Summer Sausage, a Pocket Poncho, and Tony Danza
+1-22 | Vanilla Ice Cream, Gentleman Callers, and a Dinette Set
+2-1  | A High-Pitched Buzz and Training Wheels
+2-2  | A Rival Prodigy and Sir Isaac Neutron
+2-3  | A Crisis of Faith and Octopus Aliens
+2-4  | A Financial Secret and Fish Sauce
+2-5  | A Research Study and Czechoslovakian Wedding Pastries
+2-6  | Seven Deadly Sins and a Small Carl Sagan
+2-7  | Carbon Dating and a Stuffed Raccoon
+2-8  | An 8-Bit Princess and a Flat Tire Genius
+2-9  | Family Dynamics and a Red Fiero
+2-10 | A Stunted Childhood and a Can of Fancy Mixed Nuts
+2-11 | A Race of Superhumans and a Letter to Alf
+2-12 | A Tummy Ache and a Whale of a Metaphor
+2-13 | A Nuclear Reactor and a Boy Called Lovey
+2-14 | David, Goliath, and a Yoo-hoo from the Back
+2-15 | A Math Emergency and Perky Palms
+2-16 | A Loaf of Bread and a Grand Old Flag
+2-17 | Albert Einstein and the Story of Another Mary
+2-18 | A Perfect Score and a Bunsen Burner Marshmallow
+2-19 | A Political Campaign and a Candy Land Cheater
+2-20 | A Proposal and a Popsicle Stick Cross
+2-21 | A Broken Heart and a Crock Monster
+2-22 | A Swedish Science Thing and the Equation for Toast
+3-1  | Quirky Eggheads and Texas Snow Globes
+3-2  | A Broom Closet and Satan's Monopoly Board
+3-3  | An Entrepreneurialist and a Swat on the Bottom
+3-4  | Hobbitses, Physicses and a Ball with Zip
+3-5  | A Pineapple and the Bosom of Male Friendship
+3-6  | A Parasol and a Hell of an Arm
+3-7  | Pongo Pygmaeus and a Culture that Encourages Spitting
+3-8  | The Sin of Greed and a Chimichanga from Chi-chi's
+3-9  | A Party Invitation, Football Grapes and an Earth Chicken
+3-10 | Teenager Soup and a Little Ball of Fib
+3-11 | A Live Chicken, a Fried Chicken and Holy Matrimony
+3-12 | Body Glitter and a Mall Safety Kit
+3-13 | Contracts, Rules and a Little Bit of Pig Brains
+3-14 | A Slump, a Cross and Roadside Gravel
+3-15 | A Boyfriend's Ex-Wife and a Good Luck Head Rub
+3-16 | Pasadena
+3-17 | An Academic Crime and a More Romantic Taco Bell
+3-18 | A Couple Bruised Ribs and a Cereal Box Ghost Detector
+3-19 | A House for Sale and Serious Woman Stuff
+3-20 | A Baby Tooth and the Egyptian God of Knowledge
+3-21 | A Secret Letter and a Lowly Disc of Processed Meat
+4-1  | Graduation
+4-2  | A Docent, a Little Lady and a Bouncer Named Dalton
+4-3  | Training Wheels and an Unleashed Chicken
+4-4  | Bible Camp and a Chariot of Love
+4-5  | A Musty Crypt and a Stick to Pee On
+4-6  | Freshman Orientation and the Inventor of the Zipper
+4-7  | A Philosophy Class and Worms That Can Chase You
+4-8  | An Existential Crisis and a Bear That Makes Bubbles
+4-9  | Crappy Frozen Ice Cream and an Organ Grinder's Monkey
+4-10 | Cowboy Aerobics and 473 Grease-Free Bolts
+4-11 | A Pager, a Club and a Cranky Bag of Wrinkles
+4-12 | A Box of Treasure and the Meemaw of Science
+4-13 | The Geezer Bus and a New Model for Education
+4-14 | Mitch's Son and the Unconditional Approval of a Government Agency
+4-15 | A Virus, Heartbreak and a World of Possibilities
+4-16 | A Second Prodigy and the Hottest Tips for Pouty Lips
+4-17 | A Black Hole
+4-18 | The Wild and Woolly World of Nonlinear Dynamics
+5-1  | One Bad Night and Chaos of Selfish Desires
+5-2  | Snoopin' Around and the Wonder Twins of Atheism
+5-3  | Potential Energy and Hooch on a Park Bench
+5-4  | Pish Posh and a Secret Back Room
+5-5  | Stuffed Animals and A Sweet Southern Syzygy
+5-6  | Money Laundering and a Cascade of Hormones
+5-7  | An Introduction to Engineering and a Glob of Hair Gel
+5-8  | The Grand Chancellor and a Den of Sin
+5-9  | The Yips and an Oddly Hypnotic Bohemian
+5-10 | An Expensive Glitch and a Goof-Off Room
+5-11 | A Lock-In, a Weather Girl and a Disgusting Habit
+5-12 | A Pink Cadillac and a Glorious Tribal Dance
+5-13 | A Lot of Band-Aids and the Cooper Surrender
+5-14 | A Free Scratcher and Feminine Wiles
+5-15 | A Lobster, an Armadillo and a Way Bigger Number
+5-16 | A Suitcase Full of Cash and a Yellow Clown Car
+5-17 | A Solo Peanut, a Social Butterfly and the Truth
+5-18 | Babies, Lies and a Resplendent Cannoli
+5-19 | A God-Fearin' Baptist and a Hot Trophy Husband
+5-20 | Uncle Sheldon and a Hormonal Firecracker
+5-21 | White Trash, Holy Rollers and Punching People
+5-22 | A Clogged Pore, a Little Spanish and the Future
